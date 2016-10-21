@@ -1,0 +1,47 @@
+#ifndef SPAWN_CLASS_INCLUDED
+#define SPAWN_CLASS_INCLUDED
+#define ZOMBIE_COUNT 5 // This macro defines the maximum ammount of zombies each instance of this class can create.
+#define MAX_ZOMBIE_COUNT 20
+
+#include <iostream>
+#include <irrlicht.h>
+#include "zombie.h"
+
+using namespace irr;
+
+class Spawn
+{
+    public:
+    Spawn(IrrlichtDevice *device, scene::IMesh *sMesh, video::ITexture *sTexture);
+    ~Spawn();
+
+    void setPosition(core::vector3df pos);
+
+    void updateZombie(scene::IAnimatedMesh *zombieMesh, video::ITexture *zombieTexture, float dt);
+
+    void isZombieDead();
+
+    private:
+    // Function for creating new zombie instances.
+    void createZombie(scene::IAnimatedMesh *zombieMesh, video::ITexture *zombieTexture, float dt);
+    // Function for destroying zombie objects.
+    void killZombie(unsigned int x);
+    // Pointer to irrlicht device.
+    IrrlichtDevice *_device;
+    // Selector
+    scene::ITriangleSelector *_selector;
+    // Spawner node.
+    scene::IMeshSceneNode *spawnNode;
+    // Pointer array where zombie objects will be referenced.
+    Zombie *zombie[ZOMBIE_COUNT];
+    // Maximum zombie count per level.
+    static unsigned int zombieMaxCount;
+    // Maximum zombie count per spawn.
+    unsigned int zombieCount;
+    // Variables used to create a break point between spawning zombies.
+    float countdown;
+    bool cooldown;
+    // This variable holds the coordenates of where the zombie will be placed when it is created by the spawner.
+    core::vector3df zombieToSpawnPosition;
+};
+#endif

@@ -1,0 +1,16 @@
+#ifndef COLLISION_FILTER
+#define COLLISION_FILTER
+
+#define BIT(x) (1<<(x))
+
+enum CollisionFilters
+{
+    NO_COLLISION=BIT(0),
+    WORLD_COLLISION=BIT(1),
+    FIREWORK_COLLISION=BIT(2),
+    PLAYER_COLLISION=BIT(3),
+    SCENIC_COLLISION=BIT(4),
+    MONSTER_COLLISION=BIT(5)
+};
+
+#endif

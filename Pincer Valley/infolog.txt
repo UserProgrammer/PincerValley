@@ -1,0 +1,1414 @@
+fullRes Width:  1360
+fullRes Height: 768
+halfRes Width:  680
+halfRes Height: 384
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 652
+	 Y - 372
+cursor position after reset
+	 X - 652
+	 Y - 372
+current cursor position
+	 X - 652
+	 Y - 371
+cursor position after reset
+	 X - 652
+	 Y - 371
+current cursor position
+	 X - 652
+	 Y - 371
+cursor position after reset
+	 X - 652
+	 Y - 371
+current cursor position
+	 X - 649
+	 Y - 372
+cursor position after reset
+	 X - 649
+	 Y - 372
+current cursor position
+	 X - 648
+	 Y - 370
+cursor position after reset
+	 X - 648
+	 Y - 370
+current cursor position
+	 X - 644
+	 Y - 367
+cursor position after reset
+	 X - 644
+	 Y - 367
+current cursor position
+	 X - 639
+	 Y - 365
+cursor position after reset
+	 X - 639
+	 Y - 365
+current cursor position
+	 X - 645
+	 Y - 369
+cursor position after reset
+	 X - 645
+	 Y - 369
+current cursor position
+	 X - 639
+	 Y - 366
+cursor position after reset
+	 X - 639
+	 Y - 366
+current cursor position
+	 X - 595
+	 Y - 352
+cursor position after reset
+	 X - 595
+	 Y - 352
+current cursor position
+	 X - 611
+	 Y - 358
+cursor position after reset
+	 X - 611
+	 Y - 358
+current cursor position
+	 X - 633
+	 Y - 365
+cursor position after reset
+	 X - 633
+	 Y - 365
+current cursor position
+	 X - 591
+	 Y - 353
+cursor position after reset
+	 X - 591
+	 Y - 353
+current cursor position
+	 X - 634
+	 Y - 366
+cursor position after reset
+	 X - 634
+	 Y - 366
+current cursor position
+	 X - 594
+	 Y - 356
+cursor position after reset
+	 X - 594
+	 Y - 356
+current cursor position
+	 X - 634
+	 Y - 366
+cursor position after reset
+	 X - 634
+	 Y - 366
+current cursor position
+	 X - 617
+	 Y - 363
+cursor position after reset
+	 X - 617
+	 Y - 363
+current cursor position
+	 X - 584
+	 Y - 351
+cursor position after reset
+	 X - 584
+	 Y - 351
+current cursor position
+	 X - 637
+	 Y - 366
+cursor position after reset
+	 X - 637
+	 Y - 366
+current cursor position
+	 X - 637
+	 Y - 368
+cursor position after reset
+	 X - 637
+	 Y - 368
+current cursor position
+	 X - 606
+	 Y - 360
+cursor position after reset
+	 X - 606
+	 Y - 360
+current cursor position
+	 X - 640
+	 Y - 368
+cursor position after reset
+	 X - 640
+	 Y - 368
+current cursor position
+	 X - 613
+	 Y - 363
+cursor position after reset
+	 X - 613
+	 Y - 363
+current cursor position
+	 X - 651
+	 Y - 372
+cursor position after reset
+	 X - 651
+	 Y - 372
+current cursor position
+	 X - 651
+	 Y - 372
+cursor position after reset
+	 X - 651
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 654
+	 Y - 372
+cursor position after reset
+	 X - 654
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 656
+	 Y - 372
+cursor position after reset
+	 X - 656
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 656
+	 Y - 372
+cursor position after reset
+	 X - 656
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 373
+cursor position after reset
+	 X - 655
+	 Y - 373
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372
+current cursor position
+	 X - 655
+	 Y - 372
+cursor position after reset
+	 X - 655
+	 Y - 372

@@ -1,0 +1,46 @@
+#ifndef INCLUDE_ZOMBIE_CLASS
+#define INCLUDE_ZOMBIE_CLASS
+
+#include <iostream>
+#include <irrlicht.h>
+#include "callback.h"
+
+using namespace irr;
+
+class Zombie
+{
+    public:
+    Zombie(IrrlichtDevice *device, scene::IAnimatedMesh *zMesh, video::ITexture *zTexture);
+    ~Zombie();
+
+    scene::IAnimatedMeshSceneNode *getNode();
+
+    int getHealth();
+    /// Temporary function...
+    void setHealth(int hp);
+    /// ...Temporary function.
+    int getAnimationState();
+
+    void setAnimationState(int st);
+
+    void idleAnimation();
+    void spawnAnimation();
+    void moveAnimation();
+    void dieAnimation();
+
+    void moveZombie(float dt);
+
+    private:
+    int health;
+    /**
+    /! if state = 0  ----> zombie is spawning
+    /! if state = 1  ----> zombie is moving forward
+    /! if state = 2  ----> zombie is dying
+    /! if state = 3  ----> zombie instance destroyed
+    **/
+    int state;
+    core::vector3df speed;
+    scene::IAnimatedMeshSceneNode *zombieNode;
+    Callback callback;
+};
+#endif
